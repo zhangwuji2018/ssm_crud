@@ -1,2 +1,7 @@
 # ssm_crud
-基于SSM框架的简单增删改查项目，页面的搭建基于bootstrap
+SSM-CRUD
+ssm:SpringMVC+Spring+MyBatis
+CRUD：Create（创建）
+Retrieve（查询）
+Update（更新）
+Delete（删除）
